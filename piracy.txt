@@ -974,6 +974,7 @@
 0.0.0.0 thepiratebay.org
 0.0.0.0 thepiratebay.se
 0.0.0.0 thepiratebay.vg
+0.0.0.0 thepiratebayorg.org
 0.0.0.0 thesilencemusic.com
 0.0.0.0 thetrickz.com
 0.0.0.0 theultimatesoft.blogspot.co.uk
@@ -1735,6 +1736,8 @@
 0.0.0.0 www.piratebrowser.com
 0.0.0.0 www.piratebrowser.net
 0.0.0.0 www.piratebrowser.org
+0.0.0.0 www.piratebayproxy.net
+0.0.0.0 www.pirateproxy-bay.com
 0.0.0.0 www.piratecity.net
 0.0.0.0 www.pittsbororelayforlife.org
 0.0.0.0 www.playfiles.zz.mu
